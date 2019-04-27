@@ -11,6 +11,7 @@ h1 {
 
 p {
     font-size: 18px;
+    height: 75px;
 }
 
 .div1 {
@@ -30,7 +31,8 @@ p {
     height: 500px;
 }
 
-.guessbox {
+#guessbox {
     padding-top: 20px;
     font-size: 20px;
+    height: 100px;
 }
